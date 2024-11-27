@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+                "file": "Learn Through Topics/Project Management/Other.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【入門】事例で学ぶ基本設計"
+              "title": "Other"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vocabulary/入門",
+                "query": "tag:#vocabulary/生理していきます・せいりしていきます",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+                "file": "Learn Through Topics/Project Management/Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 【入門】事例で学ぶ基本設計"
+              "title": "Backlinks for Other"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+                "file": "Learn Through Topics/Project Management/Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 【入門】事例で学ぶ基本設計"
+              "title": "Outgoing links from Other"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md"
+                "file": "Learn Through Topics/Project Management/Other.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 【入門】事例で学ぶ基本設計"
+              "title": "Outline of Other"
             }
           }
         ],
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "958636f4d76478c1",
+  "active": "14387546bf08eb38",
   "lastOpenFiles": [
-    "Learn Through Topics/Project Management/Untitled.md",
     "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+    "Learn Through Topics/Project Management/Other.md",
+    "Learn Through Topics/Project Management/Others",
     "Learn Through Topics/Project Management/Basic Design",
     "Learn Through Topics/Untitled.md",
     "Learn Through Topics/Project Management",
