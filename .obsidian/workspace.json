@@ -10,18 +10,35 @@
           {
             "id": "14387546bf08eb38",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Through Topics/Project Management/Other.md",
+                "file": "Practices/Memory/Project Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Project Management"
+            }
+          },
+          {
+            "id": "0596012a35765b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn Through Topics/Daily/2024-11-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other"
+              "title": "2024-11-27"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vocabulary/生理していきます・せいりしていきます",
+                "query": "tag:#vocabulary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Through Topics/Project Management/Other.md",
+                "file": "Learn Through Topics/Daily/2024-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Other"
+              "title": "Backlinks for 2024-11-27"
             }
           },
           {
@@ -112,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Through Topics/Project Management/Other.md",
+                "file": "Learn Through Topics/Daily/2024-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Other"
+              "title": "Outgoing links from 2024-11-27"
             }
           },
           {
@@ -139,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Through Topics/Project Management/Other.md"
+                "file": "Learn Through Topics/Daily/2024-11-27.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Other"
+              "title": "Outline of 2024-11-27"
             }
           }
         ],
@@ -162,10 +179,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14387546bf08eb38",
+  "active": "0596012a35765b4c",
   "lastOpenFiles": [
     "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
-    "Learn Through Topics/Project Management/Other.md",
+    "Learn Through Topics/Other/IT Documents.md",
+    "Learn Through Topics/Other/Conversations.md",
+    "Learn Through Topics/Daily/2024-11-27.md",
+    "2024-11-27.md",
+    "Learn Through Topics/Daily",
+    "画像.md",
+    "Practices/Memory/Project Management.md",
+    "Practices/Memory",
+    "Practices",
+    "Learn Through Topics/Other",
     "Learn Through Topics/Project Management/Others",
     "Learn Through Topics/Project Management/Basic Design",
     "Learn Through Topics/Untitled.md",

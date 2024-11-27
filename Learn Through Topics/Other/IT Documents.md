@@ -1,5 +1,3 @@
-## Documents
-
 ```
 ソフトウェア開発計画書 "Software development plan document"
 ```
@@ -94,3 +92,53 @@ This phrase likely refers to a document or chart that organizes the timeline, mi
 1. #vocabulary/開発・かいはつ **development**
 2. #vocabulary/体制・たいせい **organizational structure**, **system** or **framework**
 3. #vocabulary/表・ひょう **table** or **chart**
+
+```
+各テンプレートの構成
+```
+
+1. #vocabulary/各・かく **each** or **every**
+2. #vocabulary/テンプレート **template**
+3. #vocabulary/の **of**
+	- Possessive particle
+4. #vocabulary/構成・こうせい **structure**, **composition** or **configuration**
+	- 各テンプレートの構成　**the structures of the templates**
+
+```
+カメラ設定・機能
+```
+1. #vocabulary/機能・きのう **function**, **feature**
+	- Refers to the capabilities or tools that a device or system offers.
+
+```
+画像撮影、右眼左眼判定 "Image capture and right-eye/right-eye determination"
+```
+
+This phrase is likely used in technical or medical settings, such as:
+- Ophthalmology (eye tests or imaging)
+- Software or systems that handle image recognition and need to identify which eye is being processed.
+
+1. #vocabulary/画像撮影・がぞうさつえい **Image capture**
+	- #vocabulary/画像・がぞう **image** or **picture**
+	- #vocabulary/撮影・さつえい **capture**
+2. #vocabulary/右眼左眼判定・みぎめひだりめはんてい 
+	- #vocabulary/右眼・みぎめ **right eye**
+	- #vocabulary/左眼・ひだりめ **left eye**
+3. #vocabulary/判定・はんてい **determination**, **judgment** or **decision** 
+
+```
+ここから情報入手可能 "can be obtained from here"
+```
+
+1. #vocabulary/ここから **from here**
+2. #vocabulary/情報・じょうほう **information**
+3. #vocabulary/入手可能・にゅうしゅかのう **can be obtained**
+
+```
+カメラの情報を
+```
+
+1. #vocabulary/を Object marker, showing that 情報 is object of the verb.
+2. #vocabulary/取得・しゅとく **to obtain** or **to retrieve**
+3. #vocabulary/できる **can**
+	- Indicates ability or possibility
