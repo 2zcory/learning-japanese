@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Through Topics/Daily/2024-11-27.md",
+                "file": "Learn Through Topics/Daily/2024-12-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-27"
+              "title": "2024-12-01"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vocabulary",
+                "query": "tag:#vocabulary/ソフトウェア",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn Through Topics/Daily/2024-11-27.md",
+                "file": "Learn Through Topics/Other/IT Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-27"
+              "title": "Backlinks for IT Documents"
             }
           },
           {
@@ -129,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn Through Topics/Daily/2024-11-27.md",
+                "file": "Learn Through Topics/Other/IT Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-27"
+              "title": "Outgoing links from IT Documents"
             }
           },
           {
@@ -156,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn Through Topics/Daily/2024-11-27.md"
+                "file": "Learn Through Topics/Other/IT Documents.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-27"
+              "title": "Outline of IT Documents"
             }
           }
         ],
@@ -181,10 +182,11 @@
   },
   "active": "0596012a35765b4c",
   "lastOpenFiles": [
-    "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
     "Learn Through Topics/Other/IT Documents.md",
-    "Learn Through Topics/Other/Conversations.md",
+    "Learn Through Topics/Daily/2024-12-01.md",
     "Learn Through Topics/Daily/2024-11-27.md",
+    "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+    "Learn Through Topics/Other/Conversations.md",
     "2024-11-27.md",
     "Learn Through Topics/Daily",
     "画像.md",
