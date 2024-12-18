@@ -26,6 +26,7 @@
           {
             "id": "0596012a35765b4c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,12 +34,33 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "【入門】事例で学ぶ基本設計"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1998872505e62d3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ad6df345f34c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn Through Topics/Daily/2024-11-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-27"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vocabulary/ソフトウェア",
+                "query": "tag:#vocabulary/の",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "06f650dc35af5bf1",
@@ -181,8 +204,14 @@
   },
   "active": "0596012a35765b4c",
   "lastOpenFiles": [
-    "2024年12月04日.pdf",
+    "Pasted image 20241218235337.png",
+    "Pasted image 20241218235333.png",
+    "Learn Through Topics/Daily/2024-11-27.md",
     "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+    "Learn Through Topics/Other/IT Documents.md",
+    "Practices/Memory/Project Management.md",
+    "Learn Through Topics/Daily/2024-12-17.md",
+    "2024年12月04日.pdf",
     "Learn Through Topics/Daily/2024-12-13.md",
     "Learn Through Topics/Daily/2024-12-12.md",
     "Learn Through Topics/Daily/2024-12-10.md",
@@ -192,13 +221,10 @@
     "Learn Through Topics/Daily/2024-12-07.md",
     "Learn Through Topics/Daily/2024-12-05.md",
     "Learn Through Topics/Daily/2024-12-01.md",
-    "Learn Through Topics/Daily/2024-11-27.md",
-    "Learn Through Topics/Other/IT Documents.md",
     "Learn Through Topics/Other/Conversations.md",
     "2024-11-27.md",
     "Learn Through Topics/Daily",
     "画像.md",
-    "Practices/Memory/Project Management.md",
     "Practices/Memory",
     "Practices",
     "Learn Through Topics/Other",
