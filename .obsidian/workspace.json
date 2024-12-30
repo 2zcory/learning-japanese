@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Through Topics/Daily/2024-12-24.md",
+                "file": "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-24"
+              "title": "04_Object-Related"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vocabulary",
+                "query": "tag:#radical/心・忄・こころ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +197,24 @@
   },
   "active": "64ad6df345f34c32",
   "lastOpenFiles": [
-    "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
+    "Learn Kanji Radicals/01_Radical List/03_Animal-Related.md",
+    "Learn Kanji Radicals/01_Radical List/02_Nature-Related.md",
+    "Learn Kanji Radicals/01_Radical List/01_Human-Related.md",
+    "Learn Kanji Radicals/03_Advanced Radicals/README.md",
+    "Learn Kanji Radicals/02_Intermediate Radicals/README.md",
+    "Learn Kanji Radicals/01_Radical List/README.md",
+    "Learn Kanji Radicals/01_Radical List/08_Miscellaneous.md",
+    "Learn Kanji Radicals/01_Radical List/06_Abstract or Action-Related.md",
+    "Learn Kanji Radicals/01_Radical List/07_Shapes and Simple Symbols.md",
+    "Learn Kanji Radicals/01_Radical List/05_Building-Related.md",
+    "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
+    "Learn Through Topics/Daily/2024-12-26.md",
+    "Learn Kanji Radicals/03_Advanced Radicals",
+    "Learn Kanji Radicals/02_Intermediate Radicals",
+    "Learn Kanji Radicals/01_Radical List",
+    "Learn Kanji Radicals",
     "Learn Through Topics/Daily/2024-12-24.md",
+    "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
     "Pasted image 20241219205429.png",
     "Learn Through Topics/Daily/2024-12-19.md",
     "Pasted image 20241219002850.png",
@@ -216,19 +232,10 @@
     "Learn Through Topics/Daily/2024-12-11.md",
     "Untitled.md",
     "Learn Through Topics/Daily/2024-12-07.md",
-    "Learn Through Topics/Daily/2024-12-05.md",
-    "Learn Through Topics/Daily/2024-12-01.md",
-    "Learn Through Topics/Other/Conversations.md",
-    "2024-11-27.md",
     "Learn Through Topics/Daily",
-    "画像.md",
     "Practices/Memory",
     "Practices",
     "Learn Through Topics/Other",
-    "Learn Through Topics/Project Management/Others",
-    "Learn Through Topics/Project Management/Basic Design",
-    "Learn Through Topics/Untitled.md",
-    "Learn Through Topics/Project Management",
-    "Learn Through Topics"
+    "Learn Through Topics/Project Management/Others"
   ]
 }

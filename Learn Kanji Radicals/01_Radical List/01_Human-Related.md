@@ -1,0 +1,7 @@
+- #radical/人・じん・9 **person**
+- #radical/口・こう・30 **mouth**
+- #radical/子・し・39 **child**
+- #radical/安・あん・40 **woman**
+- #radical/心・忄・しん・61 **heart**
+- #radical/手・扌・しゅ・64 **hand**
+- #radical/足・そく・157 **foot**
