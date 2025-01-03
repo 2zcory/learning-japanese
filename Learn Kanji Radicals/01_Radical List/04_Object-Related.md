@@ -1,0 +1,19 @@
+- #radical/一・イチ・1 **Nhất**, số một, đơn giản
+- #radical/口・コウ・30 **Khẩu**. Miệng, vật chứa
+	- #vocabulary/器・き Dụng cụ
+- #radical/土・ド・32 **Thổ**. Đất, vật liệu
+- #radical/工・コウ・48 **Công**. Công cụ, chế tác
+- #radical/彡・サン・57 **Sam**. Trang trí hình thêu
+- #radical/手・シュ・64 **Thủ**. Tay, công cụ 
+- #radical/木・モク・75 **Mộc**. Cây, gỗ, thực vật
+- #radical/水・スイ・85 **Thuỷ**. Nước, chất lỏng
+- #radical/火・カ・86 **Hoả**. Lửa, năng lượng
+- #radical/牛・ギュウ・93 **Ngưu**. Con bò, vật nuôi
+- #radical/玉・ギョク・96 **Ngọc**. Ngọc, vật quý giá
+- #radical/石・セキ・112 **Thạch**. Đá khoáng sản
+- #radical/竹・チク・118 **Trúc**. Tre, công cụ tre
+- #radical/米・ベイ・119 **Mễ**. Gạo, lương thực
+- #radical/糸・シ・120 **Mịch**. Sợi, dệt vải
+- #radical/貝・バイ・154 **Bối**. Vỏ sò, tiền bạc
+- #radical/車・シャ・159 **Xa**. Xe, phương tiện
+- #radical/金・キン・167 **Kim**. Kim loại, tiền tệ

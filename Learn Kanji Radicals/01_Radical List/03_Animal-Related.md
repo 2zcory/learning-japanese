@@ -1,11 +1,36 @@
+- #vocabulary/冂・ケイ・13 **Quynh**. Vùng hoang dã, không gian mở, nơi động vật sinh sống.
+- #radical/毛・モウ・82 **Mao** (N4). Lông, đặc điểm của động vật.
+	- #vocabulary/毛・け **Lông**
+- #radical/爪・ソウ・87 **Trảo**. Móng vuốt, liên quan đến đặc điểm của động vật săn mồi.
+- #radical/牙・ガ・92 **Nha** (N1). Răng nanh, thường liên quan đến động vật săn mồi.
 - #radical/牛・ギュウ・93 **cow** (N4-N5)
+	- #vocabulary/義・ぎ Hi sinh, liên quan đến gia súc trong lễ tế thần
+	- #vocabulary/物・もの **Vật**, liên quan đến con bò và tự nhiên.
 - #radical/犬・ケン・94 **dog** (N4-N5)
-- #radical/犭・ケン・94 **animal/beast** (N3, variant)
+- #radical/犭・ケン・94 **animal/beast** (N3, variant). Biểu thị động vật hoang dã hoặc thú dữ.
+	- #vocabulary/猫・ねこ **Mèo**
+- #radical/玄・ゲン・95 **huyền** (N2). Màu đen, liên quan đến động vật đen màu đen như mèo đen.
 - #radical/羊・ヨウ・123 **sheep** (N3-N2)
+- #radical/羽・ウ・124 **Vũ**　（N3). Lông chim, cánh.
+	- #vocabulary/羽根・はね **Lông vũ**
+	- #vocabulary/鳩・はと **Chim bồ câu**
+	- #vocabulary/雀・すずめ **Chim sẻ**
+- #radical/虎・コ・141 **Hổ** (N1). Hổ, biểu tượng của sức mạnh.
+	- #vocabulary/虎・とら **Hổ**
 - #radical/虫・チュウ・142 **insect** (N3-N2)
+- #radical/角・カク・148 **Giác** (N3) Sừng, phần đặc trưng của động vật ăn cỏ.
 - #radical/豕・シ・152 **pig** (N3)
+- #radical/貝・バイ・154 **Bối**. Vỏ sò, biểu tượng tài sản và giá trị trong văn hoá cổ.
+	- #vocabulary/貝・かい sò
+- #radical/隹・スイ・172 **Chuy** (N1). Chim nhỏ, thường dùng trong chữ Hán phức tạp.
+	- #vocabulary/雀・すずめ **chim sẻ**
 - #radical/馬・バ・187 **horse** (N3)
 - #radical/魚・ギョ・195 **fish** (N3)
 - #radical/鳥・チョウ・196 **bird** (N3)
-- #radical/鹿・ロク・198 **deer** (rare radical)
-- #radical/亀・キ・213 **turtle** (variant, rare radical)
+- #radical/鹿・ロク・198 **deer** (N1) (rare radical). Nai, thường tượng trưng cho sự thanh lịch.
+	- #vocabulary/鹿・しか **Nai**
+- #radical/亀・キ **turtle** (variant, rare radical)
+- #radical/龍・リュウ **Long** (N1) Rồng, sinh vật huyền thoại trong văn hoá Á Đông.
+	- #vocabulary/恐竜
+- #radical/豹・ヒョウ **Báo**. Báo, loài săn mồi nhanh nhẹn
+	- #vocabulary/豹・ひょう **Báo**

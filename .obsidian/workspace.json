@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#radical/心・忄・こころ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.50260543823242
   },
   "right": {
     "id": "06f650dc35af5bf1",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +198,7 @@
   "active": "64ad6df345f34c32",
   "lastOpenFiles": [
     "Learn Kanji Radicals/01_Radical List/03_Animal-Related.md",
+    "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
     "Learn Kanji Radicals/01_Radical List/02_Nature-Related.md",
     "Learn Kanji Radicals/01_Radical List/01_Human-Related.md",
     "Learn Kanji Radicals/03_Advanced Radicals/README.md",
@@ -207,7 +208,6 @@
     "Learn Kanji Radicals/01_Radical List/06_Abstract or Action-Related.md",
     "Learn Kanji Radicals/01_Radical List/07_Shapes and Simple Symbols.md",
     "Learn Kanji Radicals/01_Radical List/05_Building-Related.md",
-    "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
     "Learn Through Topics/Daily/2024-12-26.md",
     "Learn Kanji Radicals/03_Advanced Radicals",
     "Learn Kanji Radicals/02_Intermediate Radicals",
