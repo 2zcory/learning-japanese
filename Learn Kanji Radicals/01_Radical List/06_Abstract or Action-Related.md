@@ -1,0 +1,39 @@
+- #radical/口・くち・30 **Khẩu**, lời nói, âm thanh. Đại diện cho một đối tượng cụ thể như cái miệng (vật có thể có giới hạn nhỏ, một điểm mở). Là thành phần tạo nên Kanji liên quan đến hành động giao tiếp hoặc âm thanh.
+	- #vocabulary/呼ぶ・よぶ **Gọi**
+	- #vocabulary/吐く・はく **Thở, nôn**
+	- #vocabulary/話す・はなす **nói**
+- #radical/囗・くにがまえ・31 **Vi**, (không gian, giới hạn). Đại diện cho không gian bao bọc (một khung lớn hơn), thường mô tả một khái niệm trừu tượng hơn như vùng hoặc phạm vi. Là thành phần tạo nên các Kanji liên quan đến giới hạn, khu vực hoặc phạm vi bao quanh.
+	- #vocabulary/国・くに **Quốc gia**
+	- #vocabulary/図る・はかる **Bản đồ**
+	- #vocabulary/困る・こまる **Khó khăn**
+- #radical/心・こころ・シン・61・忄  **Tâm**, tâm lý, cảm xúc
+	- #vocabulary/思う・おもう **Nghĩ**
+	- #vocabulary/怒る・おこる **Giận**
+	- #vocabulary/忘れる・忘れる **Quên**
+- #radical/手・て・シュ・64・扌  **Thủ**, hành động, thao tác
+	- #vocabulary/持つ・もつ **Cầm, giữ**
+	- #vocabulary/打つ・うつ **Đánh**
+	- #vocabulary/払う・はらう **Trả**
+- #radical/日・ひ・ニチ・72 **Nhật**, thời gian, ánh sáng
+	- #vocabulary/明るい・あかるい **sáng**
+	- #vocabulary/晴れる・はれる **trời quang**
+	- #vocabulary/暗い・くらい **tối**
+- #radical/水・みず・スイ・85・氵 **Thuỷ**, nước, dòng chảy
+	- #vocabulary/泣く・なく **Khóc**
+	- #vocabulary/流れる・ながれる **Chảy**
+	- #vocabulary/消す・けす **dập tắt**
+- #radical/火・ひ・カ・86・灬  **Hoả** , lửa, năng lượng
+	- #vocabulary/燃える・もえる **cháy**
+	- #vocabulary/炒める・いためる **xào**
+	- #vocabulary/炎・ほのお **ngọn lửa**
+- #radical/行・いく・コウ・144 **Hành**, di chuyển, hành động
+	- #vocabulary/行く・いく **đi**
+	- #vocabulary/街・まち **phố**
+- #radical/言・こと・ゲン・149 **Ngôn**, lời nói, giao tiếp
+	- #vocabulary/話す・はなす **Nói**
+	- #vocabulary/記・しるす **Ghi chép**
+	- #vocabulary/説く・とく **Giải thích**
+- #radical/頁・ケツ・181 **Hiệt**, đầu, suy nghĩ
+	- #vocabulary/頭・あたま **Đầu**
+	- #vocabulary/顔・かお **Mặt**
+	- #vocabulary/願う・ねがう **Mong muốn**

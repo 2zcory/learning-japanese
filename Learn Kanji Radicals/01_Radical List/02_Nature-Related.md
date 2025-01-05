@@ -1,7 +1,7 @@
 - #radical/山・さん・46 **mountain**
-- #radical/日・にち・72 **sun**/**day**
+- #radical/日・ひ・ニチ・72 **sun**/**day**
 - #radical/月・げつ・74 **moon**
 - #radical/木・もく・75**tree**
 - #radical/水・すい・83 **water**
-- #radical/火・灬・か・86 **fire**
+- #radical/火・ひ・カ・86・灬   **fire**
 - #radical/田・でん・102 **field**
