@@ -1,0 +1,2 @@
+- #radical/64・手・て Bộ "tay". Hành động, thao tác liên quan đến tay
+- #radical/18・刀・かたな Bộ **đao**. Dao, hành động cắt

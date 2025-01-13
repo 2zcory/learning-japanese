@@ -10,7 +10,7 @@
 	- #vocabulary/思う・おもう **Nghĩ**
 	- #vocabulary/怒る・おこる **Giận**
 	- #vocabulary/忘れる・忘れる **Quên**
-- #radical/手・て・シュ・64・扌  **Thủ**, hành động, thao tác
+- #radical/64・手・て   **Thủ**, hành động, thao tác
 	- #vocabulary/持つ・もつ **Cầm, giữ**
 	- #vocabulary/打つ・うつ **Đánh**
 	- #vocabulary/払う・はらう **Trả**

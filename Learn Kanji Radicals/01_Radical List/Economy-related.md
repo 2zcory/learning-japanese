@@ -1,0 +1,1 @@
+- #radical/154・貝・かい Vỏ sò, biểu tượng của tiền bạc

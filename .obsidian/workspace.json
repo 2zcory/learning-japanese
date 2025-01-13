@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Kanji Radicals/01_Radical List/06_Abstract or Action-Related.md",
+                "file": "Learn Kanji Radicals/01_Radical List/Nature-Related.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Abstract or Action-Related"
+              "title": "Nature-Related"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#radical/言・こと・ゲン・149",
+                "query": "tag:#radical/心・こころ・シン・61・忄",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -132,8 +132,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,17 +221,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ca8808832e6c1b2",
+  "active": "2266878aee70d647",
   "lastOpenFiles": [
-    "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
-    "Learn Kanji Radicals/01_Radical List/02_Nature-Related.md",
+    "Learn Kanji Radicals/01_Radical List/Action-related.md",
+    "Learn Kanji Radicals/01_Radical List/Emotion-related.md",
+    "Learn Kanji Radicals/01_Radical List/Human-Related.md",
+    "Learn Kanji Radicals/01_Radical List/Nature-Related.md",
     "Learn Kanji Radicals/01_Radical List/06_Abstract or Action-Related.md",
-    "Learn Kanji Radicals/01_Radical List/01_Human-Related.md",
-    "Practices/Memory/Project Management.md",
+    "Learn Kanji Radicals/01_Radical List/04_Object-Related.md",
+    "Learn Through Topics/Daily/2025-01-13.md",
+    "Learn Kanji Radicals/01_Radical List/README.md",
+    "Learn Through Topics/Daily/2025-01-12.md",
+    "Learn Through Topics/会話/プロジェクト進捗確認.md",
+    "Learn Kanji Radicals/01_Radical List/Economy-related.md",
+    "Learn Through Topics/会話",
+    "Learn Through Topics/Untitled.md",
+    "Learn Kanji Radicals/01_Radical List/Economy-related",
+    "Untitled",
+    "Learn Through Topics/Daily/2025-01-11.md",
     "Learn Kanji Radicals/01_Radical List/03_Animal-Related.md",
+    "Practices/Memory/Project Management.md",
     "Learn Kanji Radicals/03_Advanced Radicals/README.md",
     "Learn Kanji Radicals/02_Intermediate Radicals/README.md",
-    "Learn Kanji Radicals/01_Radical List/README.md",
     "Learn Kanji Radicals/01_Radical List/08_Miscellaneous.md",
     "Learn Kanji Radicals/01_Radical List/07_Shapes and Simple Symbols.md",
     "Learn Kanji Radicals/01_Radical List/05_Building-Related.md",
@@ -250,19 +260,8 @@
     "Pasted image 20241218235333.png",
     "Learn Through Topics/Daily/2024-11-27.md",
     "Learn Through Topics/Other/IT Documents.md",
-    "Learn Through Topics/Daily/2024-12-17.md",
     "2024年12月04日.pdf",
-    "Learn Through Topics/Daily/2024-12-13.md",
-    "Learn Through Topics/Daily/2024-12-12.md",
-    "Learn Through Topics/Daily/2024-12-10.md",
-    "Learn Through Topics/Daily/2024-12-09.md",
-    "Learn Through Topics/Daily/2024-12-11.md",
-    "Untitled.md",
-    "Learn Through Topics/Daily/2024-12-07.md",
     "Learn Through Topics/Daily",
-    "Practices/Memory",
-    "Practices",
-    "Learn Through Topics/Other",
-    "Learn Through Topics/Project Management/Others"
+    "Practices/Memory"
   ]
 }

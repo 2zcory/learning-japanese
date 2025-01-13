@@ -4,7 +4,7 @@
 - #radical/土・ド・32 **Thổ**. Đất, vật liệu
 - #radical/工・コウ・48 **Công**. Công cụ, chế tác
 - #radical/彡・サン・57 **Sam**. Trang trí hình thêu
-- #radical/手・て・シュ・64・扌  **Thủ**. Tay, công cụ 
+- #radical/64・手・て  **Thủ**. Tay, công cụ 
 - #radical/木・モク・75 **Mộc**. Cây, gỗ, thực vật
 - #radical/水・みず・スイ・85・氵  **Thuỷ**. Nước, chất lỏng
 - #radical/火・ひ・カ・86・灬  **Hoả**. Lửa, năng lượng

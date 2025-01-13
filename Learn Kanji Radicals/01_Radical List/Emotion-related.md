@@ -1,0 +1,1 @@
+#radical/61・心・こころ Bộ **tâm**. Tâm lý, cảm xúc.
