@@ -71,12 +71,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Through Topics/会話/プロジェクト進捗報告の会話.md",
+                "file": "Learn Through Topics/Daily/2025-02-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "プロジェクト進捗報告の会話"
+              "title": "2025-02-03"
+            }
+          },
+          {
+            "id": "4a14a72fddec8f56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
@@ -111,11 +123,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#radical/心・こころ・シン・61・忄",
-                "matchingCase": true,
-                "explainSearch": true,
+                "query": "tag:#vocabulary",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -130,6 +142,28 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aefbbfa38e7868e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21ad021b1a97f702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn Through Topics/Daily/2025-02-03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-03"
             }
           }
         ]
@@ -186,22 +220,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "21ad021b1a97f702",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Learn Through Topics/Other/IT Documents.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of IT Documents"
             }
           }
         ],
@@ -213,18 +237,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "2266878aee70d647",
+  "active": "0ca8808832e6c1b2",
   "lastOpenFiles": [
-    "Learn Through Topics/会話/プロジェクト進捗確認.md",
+    "Learn Through Topics/Grammar.md",
+    "Learn Through Topics/Daily/2025-02-03.md",
+    "Learn Through Topics/Daily/2025-02-02.md",
     "Learn Through Topics/会話/プロジェクト進捗報告の会話.md",
+    "Learn Through Topics/会話/プロジェクト進捗確認.md",
     "Learn Through Topics/Daily/2025-01-14.md",
     "Learn Kanji Radicals/01_Radical List/Nature-Related.md",
     "Learn Kanji Radicals/01_Radical List/Action-related.md",
@@ -237,7 +264,6 @@
     "Learn Through Topics/Daily/2025-01-12.md",
     "Learn Kanji Radicals/01_Radical List/Economy-related.md",
     "Learn Through Topics/会話",
-    "Learn Through Topics/Untitled.md",
     "Learn Kanji Radicals/01_Radical List/Economy-related",
     "Untitled",
     "Learn Through Topics/Daily/2025-01-11.md",
@@ -254,9 +280,7 @@
     "Learn Kanji Radicals/01_Radical List",
     "Learn Kanji Radicals",
     "Learn Through Topics/Daily/2024-12-24.md",
-    "Learn Through Topics/Project Management/Basic Design/【入門】事例で学ぶ基本設計.md",
     "Pasted image 20241219205429.png",
-    "Learn Through Topics/Daily/2024-12-19.md",
     "Pasted image 20241219002850.png",
     "Pasted image 20241218235337.png",
     "Pasted image 20241218235333.png",
