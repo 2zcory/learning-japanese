@@ -1,3 +1,5 @@
 {
-  "folder": "Learn Through Topics/Daily"
+  "folder": "Learn Through Topics/Daily",
+  "template": "_templates/note_daily",
+  "format": ""
 }
